@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/booking-card-app/static/css/main.f855e6bc.css",
+    "main.js": "/booking-card-app/static/js/main.fa60db73.js",
+    "static/js/453.ad7d65c9.chunk.js": "/booking-card-app/static/js/453.ad7d65c9.chunk.js",
+    "index.html": "/booking-card-app/index.html",
+    "main.f855e6bc.css.map": "/booking-card-app/static/css/main.f855e6bc.css.map",
+    "main.fa60db73.js.map": "/booking-card-app/static/js/main.fa60db73.js.map",
+    "453.ad7d65c9.chunk.js.map": "/booking-card-app/static/js/453.ad7d65c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.fa60db73.js"
+  ]
+}
